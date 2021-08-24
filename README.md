@@ -16,4 +16,4 @@ About me:
 
 ### Github Stats
 
-[![Guilherme's Github Stats](https://github-readme-stats.vercel.app/api?username=devguih&count_private=true&theme=default&show_icons=true)](https://github.com/devguih)
+[![Guilherme's Github Stats](https://github-readme-stats.vercel.app/api?username=guilherme8787&count_private=true&theme=default&show_icons=true)](https://github.com/guilherme8787)
