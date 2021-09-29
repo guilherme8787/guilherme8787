@@ -5,7 +5,7 @@ I'm a Developer from Brazil 🇧🇷 with 7 years of experience working with Fro
 About me:
 
 - 🔭 I’m currently working on [AppEconomy](https://appeconomy.com.br/) is a pessoal project
-- 💻 I'm currently working at [Face Digital](https://facedigital.com.br/)
+- 💻 I'm currently working at [EgSYS](https://egsys.com.br/)
 - 🌱 I’m learning Crawlers and Vue.js
 - 👯 I’m looking to collaborate on open sources projects
 - 🤔 I’m looking for help with **Crawlers**
