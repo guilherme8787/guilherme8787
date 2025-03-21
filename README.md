@@ -67,16 +67,6 @@ About me:
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/manolo_dd">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=manolo_dd&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img height="200" src="https://c.tenor.com/eVsXp2g3pi0AAAAC/tenor.gif"  />
 </div>
